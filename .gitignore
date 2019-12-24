@@ -56,3 +56,4 @@ Thumbs.db
 # Golang Code files
 #//////////////////////////
 .iml
+test.go
